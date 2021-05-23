@@ -128,7 +128,7 @@ public class Game extends AppCompatActivity implements View.OnClickListener {
                 startActivity(intent);
                 Game.this.finish();
             }
-        }, 10000);
+        }, 5000);
     }
 
 
